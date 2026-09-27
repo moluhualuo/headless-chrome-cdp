@@ -1,0 +1,4 @@
+interface:
+  display_name: "Headless Chrome CDP"
+  short_description: "Launch and control headless Chrome through CDP"
+  default_prompt: "Use Headless Chrome CDP to launch Chrome, open pages, inspect page state, take screenshots, click page coordinates, or detect and click a Cloudflare Turnstile checkbox through CDP."
